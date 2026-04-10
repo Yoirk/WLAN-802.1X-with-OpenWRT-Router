@@ -5,12 +5,11 @@ This project demonstrates the deployment of a highly secure enterprise wireless 
 
 By integrating Active Directory, RADIUS, and an Internal Certificate Authority, this project showcases a scalable and secure network architecture commonly used in corporate environments.
 
-> **Note:** The original virtualized infrastructure has been decommissioned. This repository serves as the technical documentation and architectural overview of the deployment. For detailed step-by-step configurations and screenshots, please refer to the attached **[Full Technical Report (PDF) - Vietnamese]("./WLAN_8021X_Enterprise_Report.pdf")**.
+> **Note:** The original virtualized infrastructure has been decommissioned. This repository serves as the technical documentation and architectural overview of the deployment. For detailed step-by-step configurations and screenshots, please refer to the attached **[Full Technical Report (PDF) - Vietnamese](WLAN_8021X_Enterprise_Report.pdf)**.
 
 ## 🏗️ Architecture & Topology
 
-*(Please place your network topology image here)*
-`![Network Topology](docs/topology.png)`
+![Network Topology](docs/topology.png)
 
 ### Core Components
 * **Authentication Server (RADIUS):** Windows Server 2019 running **Network Policy Server (NPS)**.
